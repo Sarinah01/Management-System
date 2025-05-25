@@ -1,4 +1,4 @@
-# 📊 Management System Suite – Java Projects
+# 📊 Management System  – Java Projects
 
 Welcome to the **Management System Suite**, a collection of Java-based console applications designed to manage different real-world systems. This project showcases core Java programming concepts like Object-Oriented Programming, exception handling, multithreading, file handling, and user interaction via the console.
 
